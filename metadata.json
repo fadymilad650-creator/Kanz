@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Treasure Hunt Planner",
+  "description": "An application that generates a 7-step electronic treasure hunt plan using the Gemini API. The user can generate a plan for various locations within a specific place, with clues and tasks for each step.",
+  "requestFramePermissions": []
+}
